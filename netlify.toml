@@ -1,4 +1,4 @@
 [build]
-base = "./src/index.js"
+base = "."
 command = "yarn build"
 publish = "./build/"
